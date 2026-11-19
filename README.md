@@ -29,6 +29,9 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=dylanclarkl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de dylanclarkl" />
+</p>
+
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanclarkl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Linguagens mais usadas" />
 </p>
 
